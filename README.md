@@ -10,7 +10,7 @@ As described in our paper, we compute the performance in the whole Inbreast data
 First, run *setup.m* to configure the method. Second, you can run the *step01.m* to 
 evaluate the method in the whole dataset or run the step02.m to evaluate the performance in the 60% of the dataset.
 In step01.m and *step02.m* it is necessary to specify the new path where the dataset is allocated. For this purpose, add the local Inbreast 
-path in the variable *newpath*. For example, as follows
+path in the variable *newpath*. 
 ```
 newpath='C:\Users\Desktop\gafricano\INbreast';
 ```
