@@ -2,7 +2,7 @@
 
 clear, clc, close all
 st = clock;
-
+rng('default')
 % local path of Inbreast dataset
 newpath='C:\Users\Yesica\Desktop\gafricano\data\INbreast';
 
