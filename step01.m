@@ -2,8 +2,8 @@
 
 clear, clc, close all
 st = clock;
-mkdir
 
+rng('default')
 % local path of Inbreast dataset
 newpath='C:\Users\Yesica\Desktop\gafricano\data\INbreast'; 
 
