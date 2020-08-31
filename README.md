@@ -16,6 +16,7 @@ newpath='C:\Users\Desktop\gafricano\INbreast';
 ```
 ## Updates
 **(2020/08/31)** [Our paper](https://ieeexplore.ieee.org/document/9175960) have been published in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+
 **(2020/07/19)** Two images were removed from the dataset because of bad manuall annotation   
 ## Reference 
 If you found this code useful, please cite our paper as:
